@@ -1,0 +1,5 @@
+bqplot
+scipy
+voila
+numpy
+pandas
